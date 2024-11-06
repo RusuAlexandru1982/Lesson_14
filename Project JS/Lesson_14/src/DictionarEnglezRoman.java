@@ -4,7 +4,7 @@ import java.util.Map;
 public class DictionarEnglezRoman {
 
     public static void main(String[] args) {
-        // Creăm dicționarul englez-român
+
         Map<String, String> dictionar = new HashMap<>();
 
 
